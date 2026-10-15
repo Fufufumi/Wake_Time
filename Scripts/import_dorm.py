@@ -161,7 +161,11 @@ def build_level(cutaway=False):
    a=spawn(rootcls,'Dorm_'+row['name'],row['world']);a.root_component.set_mobility(unreal.ComponentMobility.MOVABLE)
   a.set_folder_path('Dorm/'+('CutawayShell' if set(row['collections'])&hide else row['collections'][0] if row['collections'] else 'Layout'))
   a.set_editor_property('tags',[unreal.Name('DormImported'),unreal.Name(row['name'])])
-  if cutaway and row.get('cutaway_hidden',bool(set(row['collections'])&hide)):a.set_actor_hidden_in_game(True);a.set_is_temporarily_hidden_in_editor(True)
+  if cutaway and row.get('cutaway_hidden',bool(set(row['collections'])&hide)):
+   a.set_actor_hidden_in_game(True)
+   # Component visibility is serialized. Temporary editor hiding alone is lost
+   # when the cutaway map is reopened in the regular editing viewport.
+   if 'mesh' in row:comp.set_visibility(False,True)
   sceneactors[row['name']]=a
  for row in D['scene']['objects']:
   if row['parent']:sceneactors[row['name']].attach_to_actor(sceneactors[row['parent']],'',unreal.AttachmentRule.KEEP_WORLD,unreal.AttachmentRule.KEEP_WORLD,unreal.AttachmentRule.KEEP_WORLD,False)
