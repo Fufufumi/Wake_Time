@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "map": "/Game/ThirdPerson/Lvl_ThirdPerson",
+  "source_mesh_instances": 637,
+  "saved_mesh_instances": 637,
+  "source_positions_max_error_cm": 1.2789769243681803e-13,
+  "original_actors_preserved": 67,
+  "original_actors_missing": [],
+  "legacy_prototype_meshes_archived": 54,
+  "legacy_ground_collision_preserved": true,
+  "cutaway_editor_only_meshes": 92,
+  "all_dorm_meshes_enabled_at_runtime": true,
+  "original_player_start_reused": true,
+  "original_enemy_and_game_logic_retained": true,
+  "total_loaded_actors": 765,
+  "player_start_saved_location_cm": [
+    35.0,
+    -65.0,
+    105.0
+  ],
+  "player_start_external_package_verified": true
+}

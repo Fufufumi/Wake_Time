@@ -1,9 +1,15 @@
 # 宿舍场景与资产库
 
-宿舍室内、入口卫生间及阳台已从当前 Blender 场景导入 UE 5.8。内容统一位于 `/Game/Dorm`。编辑器启动时打开宿舍剖视地编；运行默认进入完整宿舍，游戏模式沿用项目已有设置。
+宿舍室内、入口卫生间及阳台已在原关卡 `/Game/ThirdPerson/Lvl_ThirdPerson` 中摆放，编辑器和游戏启动地图均使用这个原关卡。资源保存在 `/Game/Dorm`，游戏模式沿用项目已有设置。
 
 ## 打开场景
 
+- `/Game/ThirdPerson/Lvl_ThirdPerson`：当前正式地编。宿舍直接位于原关卡中；原有 Actor、敌人、导航及关卡逻辑保留，旧测试几何体收进 `Legacy_Playground`。原 PlayerStart 移到宿舍入口。
+- `DL_Dorm_CutawayShell` 是编辑器数据层，用于隐藏挡住编辑视图的墙与屋顶；不会隐藏运行时的完整建筑。可在数据层面板切换。
+- 旧测试场地默认隐藏；原始宽地板保留碰撞，继续支撑原关卡外围的敌人。备份位于 `Saved/DormImport/OriginalLevelBeforeDorm`。
+- `Scripts/integrate_dorm_original_level.py` 将当前资产地编应用到原关卡，不创建或切换 Git 分支。回读结果见 `OriginalLevelValidation.json`。
+- 原关卡 PIE 检查通过：637 个宿舍网格全部启用，角色在入口内正常落地；结果见 `OriginalLevelPlayValidation.json`。
+- 下列独立地图保留为资产库参考样例，不作为项目启动地图：
 - `/Game/Dorm/Maps/Lvl_Dorm`：包含完整墙体、天花板、宿舍、卫生间和阳台。
 - `/Game/Dorm/Maps/Lvl_Dorm_Overview`：沿用 Blender 剖视层隐藏遮挡墙及顶棚，方便检查地编。
 - 剖视遮挡通过组件可见性保存在关卡中，关闭并重新打开编辑器后仍保持生效。完整地图保留全部 637 个网格实例；剖视地图显示 545 个，隐藏 92 个遮挡部件。

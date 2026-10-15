@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "map": "/Game/ThirdPerson/Lvl_ThirdPerson",
+  "runtime_mesh_instances": 637,
+  "disabled_runtime_dorm_meshes": [],
+  "player_location_cm": [
+    35.0,
+    -65.0,
+    92.15000343322754
+  ],
+  "player_inside_dorm": true,
+  "player_grounded": true
+}
