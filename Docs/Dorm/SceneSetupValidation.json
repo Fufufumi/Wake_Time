@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "maps": [
+    {
+      "map": "/Game/Dorm/Maps/Lvl_Dorm",
+      "mesh_instances": 637,
+      "visible_mesh_instances": 637,
+      "cutaway_mesh_instances": 0,
+      "previously_visible_cutaway_meshes": 0,
+      "max_position_error_cm": 2.2737367544323206e-13,
+      "persistent_visibility_verified": true
+    },
+    {
+      "map": "/Game/Dorm/Maps/Lvl_Dorm_Overview",
+      "mesh_instances": 637,
+      "visible_mesh_instances": 545,
+      "cutaway_mesh_instances": 92,
+      "previously_visible_cutaway_meshes": 91,
+      "max_position_error_cm": 2.2737367544323206e-13,
+      "persistent_visibility_verified": true
+    }
+  ],
+  "errors": []
+}
