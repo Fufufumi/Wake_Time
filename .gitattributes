@@ -1,1 +1,5 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
+SourceArt/Dorm/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+SourceArt/Dorm/**/*.png filter=lfs diff=lfs merge=lfs -text
+SourceArt/Dorm/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Docs/Dorm/*.png filter=lfs diff=lfs merge=lfs -text

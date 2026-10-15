@@ -1,0 +1,9 @@
+{
+  "engine": "Unreal Engine 5.8.3",
+  "renderer": "D3D12 SM6",
+  "preview": "UE_Dorm_Overview.png",
+  "material_compile_failures": 0,
+  "python_errors": 0,
+  "preview_sha256": "f86170724f8c0e65320e559c3d4311067c85a5024540fcc909eef88301a751cf",
+  "success": true
+}

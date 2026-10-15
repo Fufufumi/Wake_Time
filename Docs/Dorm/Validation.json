@@ -1,0 +1,407 @@
+{
+  "success": true,
+  "assets": 77,
+  "meshes": 146,
+  "textures": 288,
+  "materials": 105,
+  "blueprints": [
+    {
+      "asset": "SM_Dorm_A01_LoftBedFrame",
+      "mesh_components": 3,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A02a_Mattress",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A02b_Pillow",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A02c_Duvet",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A03_StudyDesk",
+      "mesh_components": 2,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A04_Bookshelf",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_A05_Wardrobe",
+      "mesh_components": 5,
+      "max_location_error_cm": 4.76837158203125e-07
+    },
+    {
+      "asset": "SM_Dorm_A06_StudyChair",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B01_DeskLamp",
+      "mesh_components": 3,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B02_Laptop",
+      "mesh_components": 5,
+      "max_location_error_cm": 7.151659886517336e-08
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B04_Thermos",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_C01_Backpack",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_C02_Slipper",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D02_USBCharger",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D03_ChargingCable",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D04_PowerStrip",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D06_ChipsBag",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D07_BiscuitPack",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D08_CakeSlice",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D09_MilkTeaCup",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D10_MedicineBottle",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D11_Toothbrush",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D12_Toothpaste",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D13_ToothMug",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E01_DryingRack",
+      "mesh_components": 2,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E02_ClothesRail",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E03a_BalconyDoorFrame",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E03b_BalconyDoorLeaf",
+      "mesh_components": 4,
+      "max_location_error_cm": 4.291534423828125e-06
+    },
+    {
+      "asset": "SM_Dorm_E04_WashBasin",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E05_Detergent",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E06_Suitcase",
+      "mesh_components": 7,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E07_FoldedClothes",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E08_UnfoldedTShirt",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_E09_UnfoldedTrousers",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_F01_BalconyRailing",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_F02_ACOutdoorUnit",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H01_Washbasin",
+      "mesh_components": 3,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H02_ShowerGel",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H03_Shampoo",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H04_ShowerFixture",
+      "mesh_components": 5,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H05_Toilet",
+      "mesh_components": 5,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H06_ToiletPaper",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H07_BathroomCabinet",
+      "mesh_components": 3,
+      "max_location_error_cm": 1.0269029303344723e-05
+    },
+    {
+      "asset": "SM_Dorm_H08_LaundryBucket",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H09_FootSoakBucket",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H10_UsedTissue",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_H11_Towel",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_I01_BeveledFloorTile",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_I02_MosaicWallPanel",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_I03_BathroomMirror",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_I04_OpenCabinetBody",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_I05_CabinetDoor",
+      "mesh_components": 2,
+      "max_location_error_cm": 1.9073486328125e-06
+    },
+    {
+      "asset": "SM_Dorm_I06_SpareToiletRoll",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_G01_WallPanel_1m",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_G02_BalconySideWall",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_G03_BalconyPartitionWall",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Sage",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Rose",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Amber",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Slate",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Brick",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Ochre",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Slate",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Sage",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Rose",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Ochre",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "AS_Dorm_E03_BalconyDoor",
+      "mesh_components": 5,
+      "max_location_error_cm": 4.887580871582031e-06
+    },
+    {
+      "asset": "AS_Dorm_I07_StockedCabinet",
+      "mesh_components": 24,
+      "max_location_error_cm": 3.2363865756224186e-06
+    },
+    {
+      "asset": "SM_Dorm_J01_WindowOuterFrame",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_J02_FixedTransom",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_J03_SlidingSash",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "SM_Dorm_J04_WindowGlass",
+      "mesh_components": 1,
+      "max_location_error_cm": 0
+    },
+    {
+      "asset": "AS_Dorm_J05_SlidingWindow",
+      "mesh_components": 8,
+      "max_location_error_cm": 2.384185791015625e-06
+    },
+    {
+      "asset": "SM_Dorm_K01_InteriorDoor",
+      "mesh_components": 3,
+      "max_location_error_cm": 4.76837158203125e-06
+    }
+  ],
+  "maps": [
+    {
+      "name": "Lvl_Dorm",
+      "mesh_actors": 637,
+      "max_location_error_cm": 1.2789769243681803e-13
+    },
+    {
+      "name": "Lvl_Dorm_Overview",
+      "mesh_actors": 637,
+      "max_location_error_cm": 1.2789769243681803e-13
+    }
+  ],
+  "errors": []
+}

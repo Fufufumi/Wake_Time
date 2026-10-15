@@ -1,0 +1,1143 @@
+{
+  "assets": 77,
+  "errors": [],
+  "mesh_checks": [
+    {
+      "mesh": "SM_Dorm_A01_LoftBedFrame_SM_Dorm_A01a_SteelFrame_v002_3f1e196",
+      "bounds_error_cm": 9.5367431640625e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A01_LoftBedFrame_SM_Dorm_A01b_EdgeLadder_v002_6da58b5",
+      "bounds_error_cm": 7.62939453125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A01_LoftBedFrame_SM_Dorm_A01c_BedDeck_v002_9409852",
+      "bounds_error_cm": 1.0132789611816406e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A02a_Mattress_SM_Dorm_A02a_Mattress_174234c",
+      "bounds_error_cm": 8.821487426757812e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A02b_Pillow_SM_Dorm_A02b_Pillow_7bd2b33",
+      "bounds_error_cm": 3.516674041748047e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A02c_Duvet_SM_Dorm_A02c_Duvet_107fafa",
+      "bounds_error_cm": 7.3909759521484375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A03_StudyDesk_SM_Dorm_A03_StudyDesk__DeskBody_97f962b",
+      "bounds_error_cm": 5.125999450683594e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A03_StudyDesk_SM_Dorm_A03_StudyDesk__DeskDrawer_2b8ff55",
+      "bounds_error_cm": 1.1920928955078125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A04_Bookshelf_SM_Dorm_A04_Bookshelf_38525c4",
+      "bounds_error_cm": 3.814697265625e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A05_Wardrobe_SM_Dorm_A05_Wardrobe__WardrobeBody_1158fe0",
+      "bounds_error_cm": 4.410743713378906e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A05_Wardrobe_SM_Dorm_A05_Wardrobe__WardrobeDoor_5e14c77",
+      "bounds_error_cm": 2.9616057872772217e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A05_Wardrobe_M_Dorm_A05_Wardrobe__WardrobeHandle_5dd4076",
+      "bounds_error_cm": 1.7881393432617188e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A05_Wardrobe_M_Dorm_A05_Wardrobe__WardrobeDoor_R_0d424c4",
+      "bounds_error_cm": 2.9616057872772217e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_A06_StudyChair_SM_Dorm_A06_StudyChair_aadfc28",
+      "bounds_error_cm": 1.5497207641601562e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B01_DeskLamp_SM_Dorm_B01_DeskLamp__LampBase_658ea85",
+      "bounds_error_cm": 1.1920928955078125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B01_DeskLamp_SM_Dorm_B01_DeskLamp__LampArm_9e34524",
+      "bounds_error_cm": 2.5704503059387207e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B01_DeskLamp_SM_Dorm_B01_DeskLamp__LampShade_6153651",
+      "bounds_error_cm": 7.748603820800781e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B02_Laptop_SM_Dorm_B02_Laptop__LaptopBase_e3a8df1",
+      "bounds_error_cm": 1.2516975402832031e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B02_Laptop_SM_Dorm_B02_Laptop__LaptopScreen_ee42ddf",
+      "bounds_error_cm": 1.4007091522216797e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B02_Laptop_SM_Dorm_B02_Laptop__Display_6f800c2",
+      "bounds_error_cm": 1.7285346984863281e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B02_Laptop_SM_Dorm_B02_Laptop__Keyboard_b3ef9fe",
+      "bounds_error_cm": 1.1324882507324219e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B02_Laptop__Dorm_B02_Laptop__Keys_And_Trackpad_391df93",
+      "bounds_error_cm": 8.046627044677734e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B03_Textbook_SM_Dorm_B03_Textbook_8e0c52a",
+      "bounds_error_cm": 1.0728836059570312e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_B04_Thermos_SM_Dorm_B04_Thermos_9d55e2a",
+      "bounds_error_cm": 5.364418029785156e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_C01_Backpack_SM_Dorm_C01_Backpack_810678e",
+      "bounds_error_cm": 7.152557373046875e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_C02_Slipper_SM_Dorm_C02_Slipper_931fd6b",
+      "bounds_error_cm": 5.364418029785156e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D01_WaterBottle_SM_Dorm_D01_WaterBottle_69d4ff4",
+      "bounds_error_cm": 5.960464477539062e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D02_USBCharger_SM_Dorm_D02_USBCharger_c5c8526",
+      "bounds_error_cm": 2.384185791015625e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D03_ChargingCable_SM_Dorm_D03_ChargingCable_e6e2736",
+      "bounds_error_cm": 5.364418029785156e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D04_PowerStrip_SM_Dorm_D04_PowerStrip_65dc4b1",
+      "bounds_error_cm": 9.387731552124023e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D05_Notebook_SM_Dorm_D05_Notebook_6736088",
+      "bounds_error_cm": 6.854534149169922e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D06_ChipsBag_SM_Dorm_D06_ChipsBag_f2ebf92",
+      "bounds_error_cm": 2.980232238769531e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D07_BiscuitPack_SM_Dorm_D07_BiscuitPack_e3b2743",
+      "bounds_error_cm": 1.7881393432617188e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D08_CakeSlice_SM_Dorm_D08_CakeSlice_8ff2450",
+      "bounds_error_cm": 2.682209014892578e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D09_MilkTeaCup_SM_Dorm_D09_MilkTeaCup_31ff416",
+      "bounds_error_cm": 8.344650268554688e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D10_MedicineBottle_SM_Dorm_D10_MedicineBottle_d8e14ef",
+      "bounds_error_cm": 2.980232238769531e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D11_Toothbrush_SM_Dorm_D11_Toothbrush_7b78ee6",
+      "bounds_error_cm": 6.742775440216064e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D12_Toothpaste_SM_Dorm_D12_Toothpaste_0f4d64e",
+      "bounds_error_cm": 4.991888999938965e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_D13_ToothMug_SM_Dorm_D13_ToothMug_0b72833",
+      "bounds_error_cm": 2.086162567138672e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E01_DryingRack_SM_Dorm_E01_DryingRack__FrameA_8d2daf3",
+      "bounds_error_cm": 5.282461643218994e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E02_ClothesRail_SM_Dorm_E02_ClothesRail_c82b817",
+      "bounds_error_cm": 5.99399209022522e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E03a_BalconyDoorFrame_rm_E03a_BalconyDoorFrame__DoorFrame_05d54ef",
+      "bounds_error_cm": 3.844499588012695e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E03b_BalconyDoorLeaf_Dorm_E03b_BalconyDoorLeaf__DoorLeaf_1a96ac0",
+      "bounds_error_cm": 6.92903995513916e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E03b_BalconyDoorLeaf_rm_E03b_BalconyDoorLeaf__DoorHandle_dcaafc9",
+      "bounds_error_cm": 6.258487701416016e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E03b_BalconyDoorLeaf_rm_E03b_BalconyDoorLeaf_Glass_Upper_7715458",
+      "bounds_error_cm": 5.7220458984375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E03b_BalconyDoorLeaf_rm_E03b_BalconyDoorLeaf_Glass_Lower_ca1fde5",
+      "bounds_error_cm": 3.092922270298004e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E04_WashBasin_SM_Dorm_E04_WashBasin_1227316",
+      "bounds_error_cm": 2.980232238769531e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E05_Detergent_SM_Dorm_E05_Detergent_e517b1f",
+      "bounds_error_cm": 5.960464477539063e-08,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E06_Suitcase_SM_Dorm_E06_Suitcase__SuitcaseBody_fb6ed4c",
+      "bounds_error_cm": 1.6093254089355469e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E06_Suitcase_SM_Dorm_E06_Suitcase__SuitcaseLid_af357da",
+      "bounds_error_cm": 3.3080577850341797e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E06_Suitcase_M_Dorm_E06_Suitcase__SuitcaseHandle_7b1860d",
+      "bounds_error_cm": 9.5367431640625e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E06_Suitcase_SM_Dorm_E06_Suitcase__SuitcaseWheel_4d3cacc",
+      "bounds_error_cm": 1.1920928955078125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E07_FoldedClothes_SM_Dorm_E07_FoldedClothes_fff5c76",
+      "bounds_error_cm": 1.0132789611816406e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E08_UnfoldedTShirt_SM_Dorm_E08_UnfoldedTShirt_e54e6af",
+      "bounds_error_cm": 1.7881393432617188e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_E09_UnfoldedTrousers_SM_Dorm_E09_UnfoldedTrousers_1a8f7b6",
+      "bounds_error_cm": 3.0994415283203125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_F01_BalconyRailing_SM_Dorm_F01_BalconyRailing_59a4338",
+      "bounds_error_cm": 4.5299530029296875e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_F02_ACOutdoorUnit_SM_Dorm_F02_ACOutdoorUnit_19a5ed4",
+      "bounds_error_cm": 3.0994415283203125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H01_Washbasin_SM_Dorm_H01_Washbasin__BasinBody_bc306cc",
+      "bounds_error_cm": 7.152557373046875e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H01_Washbasin_SM_Dorm_H01_Washbasin__FaucetBody_5d87f4f",
+      "bounds_error_cm": 1.7881393432617188e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H01_Washbasin_SM_Dorm_H01_Washbasin__FaucetLever_b98bad7",
+      "bounds_error_cm": 4.6938657760620117e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H02_ShowerGel_SM_Dorm_H02_ShowerGel_a75f5d9",
+      "bounds_error_cm": 1.1920928955078125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H03_Shampoo_SM_Dorm_H03_Shampoo_7ebcbfd",
+      "bounds_error_cm": 9.5367431640625e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H04_ShowerFixture__Dorm_H04_ShowerFixture__ShowerRail_d44a05d",
+      "bounds_error_cm": 1.430511474609375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H04_ShowerFixture__Dorm_H04_ShowerFixture__ShowerHead_78a6b52",
+      "bounds_error_cm": 4.76837158203125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H04_ShowerFixture_Dorm_H04_ShowerFixture__ShowerValve_8555670",
+      "bounds_error_cm": 6.705522537231445e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H04_ShowerFixture__Dorm_H04_ShowerFixture__ShowerKnob_7d36daa",
+      "bounds_error_cm": 8.940696716308594e-08,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H04_ShowerFixture__Dorm_H04_ShowerFixture__ShowerHose_41df8d6",
+      "bounds_error_cm": 1.9073486328125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H05_Toilet_SM_Dorm_H05_Toilet__BowlBody_428c6ff",
+      "bounds_error_cm": 4.76837158203125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H05_Toilet_SM_Dorm_H05_Toilet__SeatRing_c9443a4",
+      "bounds_error_cm": 2.205371856689453e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H05_Toilet_SM_Dorm_H05_Toilet__SeatLid_8a16b6f",
+      "bounds_error_cm": 2.6226043701171875e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H05_Toilet_SM_Dorm_H05_Toilet__CisternLid_13e4d96",
+      "bounds_error_cm": 1.6093254089355469e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H05_Toilet_SM_Dorm_H05_Toilet__FlushButton_2e580e5",
+      "bounds_error_cm": 1.1920928955078125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H06_ToiletPaper_SM_Dorm_H06_ToiletPaper_6f1fe70",
+      "bounds_error_cm": 8.642673492431641e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H07_BathroomCabinet_ClosedCabinet_Body__CabinetBody_3ab48c5",
+      "bounds_error_cm": 2.86102294921875e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H07_BathroomCabinet_ClosedCabinet_Door__CabinetHandle_b82ce72",
+      "bounds_error_cm": 2.384185791015625e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H07_BathroomCabinet_ClosedCabinet_Door__CabinetDoor_0c9b534",
+      "bounds_error_cm": 4.805624485015869e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H08_LaundryBucket_SM_Dorm_H08_LaundryBucket_26b60f1",
+      "bounds_error_cm": 7.152557373046875e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H09_FootSoakBucket_SM_Dorm_H09_FootSoakBucket_52ab51a",
+      "bounds_error_cm": 7.152557373046875e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H10_UsedTissue_SM_Dorm_H10_UsedTissue_5e9ad84",
+      "bounds_error_cm": 2.980232238769531e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_H11_Towel_SM_Dorm_H11_Towel_d4caef3",
+      "bounds_error_cm": 2.384185791015625e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_I01_BeveledFloorTile_SM_Dorm_I01_BeveledFloorTile_3355404",
+      "bounds_error_cm": 1.0728836059570312e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_I02_MosaicWallPanel_SM_Dorm_I02_MosaicWallPanel_a0d19af",
+      "bounds_error_cm": 1.3299286365509033e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_I03_BathroomMirror_SM_Dorm_I03_BathroomMirror_9b83daa",
+      "bounds_error_cm": 2.0563602447509766e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_I06_SpareToiletRoll_SM_Dorm_I06_SpareToiletRoll_68dec61",
+      "bounds_error_cm": 5.066394805908203e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_G01_WallPanel_1m_SM_Dorm_G01_WallPanel_1m_556061b",
+      "bounds_error_cm": 4.425644874572754e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_G02_BalconySideWall_SM_Dorm_G02_BalconySideWall_c9a6c87",
+      "bounds_error_cm": 8.240342140197754e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_G03_BalconyPartitionWall_SM_Dorm_G03_BalconyPartitionWall_1dd6409",
+      "bounds_error_cm": 1.9297003746032715e-05,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D01_WaterBottle_Sage_SM_Dorm_D01_WaterBottle_Sage_0ac737f",
+      "bounds_error_cm": 5.960464477539062e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D01_WaterBottle_Rose_SM_Dorm_D01_WaterBottle_Rose_c8ad74f",
+      "bounds_error_cm": 5.960464477539062e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D01_WaterBottle_Amber_SM_Dorm_D01_WaterBottle_Amber_7787b0d",
+      "bounds_error_cm": 5.960464477539062e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_B03_Textbook_Slate_SM_Dorm_B03_Textbook_Slate_1f07a22",
+      "bounds_error_cm": 1.0728836059570312e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_B03_Textbook_Brick_SM_Dorm_B03_Textbook_Brick_c28bc18",
+      "bounds_error_cm": 1.0728836059570312e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_B03_Textbook_Ochre_SM_Dorm_B03_Textbook_Ochre_0015a35",
+      "bounds_error_cm": 1.0728836059570312e-06,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D05_Notebook_Slate_SM_Dorm_D05_Notebook_Slate_f60cec2",
+      "bounds_error_cm": 6.854534149169922e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D05_Notebook_Sage_SM_Dorm_D05_Notebook_Sage_a62ef45",
+      "bounds_error_cm": 6.854534149169922e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D05_Notebook_Rose_SM_Dorm_D05_Notebook_Rose_9b0f2de",
+      "bounds_error_cm": 6.854534149169922e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_D05_Notebook_Ochre_SM_Dorm_D05_Notebook_Ochre_72fe749",
+      "bounds_error_cm": 6.854534149169922e-07,
+      "slots": 2
+    },
+    {
+      "mesh": "SM_Dorm_J01_WindowOuterFrame_SM_Dorm_J01_WindowOuterFrame_341a0df",
+      "bounds_error_cm": 7.599592208862305e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_J02_FixedTransom_SM_Dorm_J02_FixedTransom_5086f7d",
+      "bounds_error_cm": 7.02589750289917e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_J03_SlidingSash_SM_Dorm_J03_SlidingSash_eec10a8",
+      "bounds_error_cm": 3.5762786865234375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_J04_WindowGlass_SM_Dorm_J04_WindowGlass_c063bba",
+      "bounds_error_cm": 4.371138857095502e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_J05_SlidingWindow_Window_Sash_Right_905d702",
+      "bounds_error_cm": 3.5762786865234375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_K01_InteriorDoor_SM_Dorm_K01_InteriorDoor__DoorFrame_e7a2027",
+      "bounds_error_cm": 4.217028617858887e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_K01_InteriorDoor_SM_Dorm_K01_InteriorDoor__DoorLeaf_39811d0",
+      "bounds_error_cm": 7.4356794357299805e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Dorm_K01_InteriorDoor_M_Dorm_K01_InteriorDoor__DoorHandle_6086496",
+      "bounds_error_cm": 6.258487701416016e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Floor_Slab_554b895",
+      "bounds_error_cm": 2.193450927734375e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Floor_Joint_X_01_492f64c",
+      "bounds_error_cm": 2.796761691570282e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Floor_Joint_Y_01_cf789f0",
+      "bounds_error_cm": 1.9235536456108093e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Rear_Window_Sill_42ae315",
+      "bounds_error_cm": 7.987022399902344e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Balcony_Floor_44220e1",
+      "bounds_error_cm": 2.4080276489257812e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Balcony_Tile_X_01_5ec66d3",
+      "bounds_error_cm": 8.208677172660828e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Laundry_Wall_Shelf_8208a58",
+      "bounds_error_cm": 3.2186508178710938e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Laundry_Shelf_Bracket_f4d7452",
+      "bounds_error_cm": 3.501772880554199e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Balcony_Draped_TShirt_af284a4",
+      "bounds_error_cm": 4.76837158203125e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Balcony_Draped_Trousers_00fc7a8",
+      "bounds_error_cm": 1.3709068298339844e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Balcony_Canopy_dfd6473",
+      "bounds_error_cm": 2.3126602172851562e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Drying_Rail_Ceiling_Anchor_5c03b83",
+      "bounds_error_cm": 4.023313522338867e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Drying_Rail_Dropper_29ef601",
+      "bounds_error_cm": 1.3113021850585938e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_North_Dado_a990ab8",
+      "bounds_error_cm": 8.240342140197754e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_North_Plaster_25e5947",
+      "bounds_error_cm": 8.240342140197754e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_East_Front_Dado_c112c32",
+      "bounds_error_cm": 1.430511474609375e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_East_Front_Plaster_4274ce4",
+      "bounds_error_cm": 2.384185791015625e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_East_Rear_Dado_3f21bc0",
+      "bounds_error_cm": 3.948807716369629e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_East_Rear_Plaster_3087692",
+      "bounds_error_cm": 3.948807716369629e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_Door_Header_Plaster_d9f9b5d",
+      "bounds_error_cm": 3.948807716369629e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Bathroom_Floor_Inlay_5d2779f",
+      "bounds_error_cm": 1.049041748046875e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_Left_06_00_a1d0944",
+      "bounds_error_cm": 1.1511147022247314e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_Back_06_00_33e669a",
+      "bounds_error_cm": 7.152557373046875e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_DoorFront_00_00_824cb8c",
+      "bounds_error_cm": 1.1138617992401123e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_DoorRear_02_00_3e08561",
+      "bounds_error_cm": 1.173466444015503e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_DoorHeader_00_02_aca7bb6",
+      "bounds_error_cm": 1.3299286365509033e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Mosaic_DoorHeader_03_02_21df7b3",
+      "bounds_error_cm": 2.980232238769531e-07,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Wall_R_Lower_ebe2866",
+      "bounds_error_cm": 2.779066562652588e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Wall_R_Upper_c75be29",
+      "bounds_error_cm": 2.779066562652588e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Skirting_R_d51ec17",
+      "bounds_error_cm": 2.793222665786743e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Dado_Cap_R_a19bf67",
+      "bounds_error_cm": 2.7995556592941284e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Entry_Header_ff5a8ff",
+      "bounds_error_cm": 4.425644874572754e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Entry_Wall_Lower_v005_e327dd2",
+      "bounds_error_cm": 9.670853614807129e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Entry_Wall_Upper_v005_9516066",
+      "bounds_error_cm": 9.670853614807129e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Entry_Wall_Lower_001_v005_7adaf5f",
+      "bounds_error_cm": 5.379319190979004e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Entry_Wall_Upper_001_v005_1cbbe5d",
+      "bounds_error_cm": 5.379319190979004e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Ceiling_12324bc",
+      "bounds_error_cm": 2.193450927734375e-05,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Ceiling_Light_Housing_a684ce9",
+      "bounds_error_cm": 4.76837158203125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Ceiling_Light_Diffuser_a7ebf65",
+      "bounds_error_cm": 4.1425228118896484e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Ceiling_Light_Housing_001_32b1903",
+      "bounds_error_cm": 4.76837158203125e-06,
+      "slots": 1
+    },
+    {
+      "mesh": "SM_Scene_Ceiling_Light_Diffuser_001_4579894",
+      "bounds_error_cm": 4.1425228118896484e-06,
+      "slots": 1
+    }
+  ],
+  "blueprints": [
+    {
+      "asset": "SM_Dorm_A01_LoftBedFrame",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A01_LoftBedFrame.BP_Dorm_A01_LoftBedFrame",
+      "parts": 3
+    },
+    {
+      "asset": "SM_Dorm_A02a_Mattress",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A02a_Mattress.BP_Dorm_A02a_Mattress",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_A02b_Pillow",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A02b_Pillow.BP_Dorm_A02b_Pillow",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_A02c_Duvet",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A02c_Duvet.BP_Dorm_A02c_Duvet",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_A03_StudyDesk",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A03_StudyDesk.BP_Dorm_A03_StudyDesk",
+      "parts": 2
+    },
+    {
+      "asset": "SM_Dorm_A04_Bookshelf",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A04_Bookshelf.BP_Dorm_A04_Bookshelf",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_A05_Wardrobe",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A05_Wardrobe.BP_Dorm_A05_Wardrobe",
+      "parts": 5
+    },
+    {
+      "asset": "SM_Dorm_A06_StudyChair",
+      "path": "/Game/Dorm/02_Furniture_Bedding/Blueprints/BP_Dorm_A06_StudyChair.BP_Dorm_A06_StudyChair",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_B01_DeskLamp",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_B01_DeskLamp.BP_Dorm_B01_DeskLamp",
+      "parts": 3
+    },
+    {
+      "asset": "SM_Dorm_B02_Laptop",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_B02_Laptop.BP_Dorm_B02_Laptop",
+      "parts": 5
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_B03_Textbook.BP_Dorm_B03_Textbook",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_B04_Thermos",
+      "path": "/Game/Dorm/06_Daily_Items/Blueprints/BP_Dorm_B04_Thermos.BP_Dorm_B04_Thermos",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_C01_Backpack",
+      "path": "/Game/Dorm/06_Daily_Items/Blueprints/BP_Dorm_C01_Backpack.BP_Dorm_C01_Backpack",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_C02_Slipper",
+      "path": "/Game/Dorm/06_Daily_Items/Blueprints/BP_Dorm_C02_Slipper.BP_Dorm_C02_Slipper",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D01_WaterBottle.BP_Dorm_D01_WaterBottle",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D02_USBCharger",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_D02_USBCharger.BP_Dorm_D02_USBCharger",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D03_ChargingCable",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_D03_ChargingCable.BP_Dorm_D03_ChargingCable",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D04_PowerStrip",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_D04_PowerStrip.BP_Dorm_D04_PowerStrip",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_D05_Notebook.BP_Dorm_D05_Notebook",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D06_ChipsBag",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D06_ChipsBag.BP_Dorm_D06_ChipsBag",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D07_BiscuitPack",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D07_BiscuitPack.BP_Dorm_D07_BiscuitPack",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D08_CakeSlice",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D08_CakeSlice.BP_Dorm_D08_CakeSlice",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D09_MilkTeaCup",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D09_MilkTeaCup.BP_Dorm_D09_MilkTeaCup",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D10_MedicineBottle",
+      "path": "/Game/Dorm/06_Daily_Items/Blueprints/BP_Dorm_D10_MedicineBottle.BP_Dorm_D10_MedicineBottle",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D11_Toothbrush",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_D11_Toothbrush.BP_Dorm_D11_Toothbrush",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D12_Toothpaste",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_D12_Toothpaste.BP_Dorm_D12_Toothpaste",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D13_ToothMug",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_D13_ToothMug.BP_Dorm_D13_ToothMug",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E01_DryingRack",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E01_DryingRack.BP_Dorm_E01_DryingRack",
+      "parts": 2
+    },
+    {
+      "asset": "SM_Dorm_E02_ClothesRail",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E02_ClothesRail.BP_Dorm_E02_ClothesRail",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E03a_BalconyDoorFrame",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_E03a_BalconyDoorFrame.BP_Dorm_E03a_BalconyDoorFrame",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E03b_BalconyDoorLeaf",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_E03b_BalconyDoorLeaf.BP_Dorm_E03b_BalconyDoorLeaf",
+      "parts": 4
+    },
+    {
+      "asset": "SM_Dorm_E04_WashBasin",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E04_WashBasin.BP_Dorm_E04_WashBasin",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E05_Detergent",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E05_Detergent.BP_Dorm_E05_Detergent",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E06_Suitcase",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E06_Suitcase.BP_Dorm_E06_Suitcase",
+      "parts": 7
+    },
+    {
+      "asset": "SM_Dorm_E07_FoldedClothes",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E07_FoldedClothes.BP_Dorm_E07_FoldedClothes",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E08_UnfoldedTShirt",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E08_UnfoldedTShirt.BP_Dorm_E08_UnfoldedTShirt",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_E09_UnfoldedTrousers",
+      "path": "/Game/Dorm/07_Balcony_Laundry/Blueprints/BP_Dorm_E09_UnfoldedTrousers.BP_Dorm_E09_UnfoldedTrousers",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_F01_BalconyRailing",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_F01_BalconyRailing.BP_Dorm_F01_BalconyRailing",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_F02_ACOutdoorUnit",
+      "path": "/Game/Dorm/03_Electronics/Blueprints/BP_Dorm_F02_ACOutdoorUnit.BP_Dorm_F02_ACOutdoorUnit",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H01_Washbasin",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H01_Washbasin.BP_Dorm_H01_Washbasin",
+      "parts": 3
+    },
+    {
+      "asset": "SM_Dorm_H02_ShowerGel",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H02_ShowerGel.BP_Dorm_H02_ShowerGel",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H03_Shampoo",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H03_Shampoo.BP_Dorm_H03_Shampoo",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H04_ShowerFixture",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H04_ShowerFixture.BP_Dorm_H04_ShowerFixture",
+      "parts": 5
+    },
+    {
+      "asset": "SM_Dorm_H05_Toilet",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H05_Toilet.BP_Dorm_H05_Toilet",
+      "parts": 5
+    },
+    {
+      "asset": "SM_Dorm_H06_ToiletPaper",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H06_ToiletPaper.BP_Dorm_H06_ToiletPaper",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H07_BathroomCabinet",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H07_BathroomCabinet.BP_Dorm_H07_BathroomCabinet",
+      "parts": 3
+    },
+    {
+      "asset": "SM_Dorm_H08_LaundryBucket",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H08_LaundryBucket.BP_Dorm_H08_LaundryBucket",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H09_FootSoakBucket",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H09_FootSoakBucket.BP_Dorm_H09_FootSoakBucket",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H10_UsedTissue",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H10_UsedTissue.BP_Dorm_H10_UsedTissue",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_H11_Towel",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_H11_Towel.BP_Dorm_H11_Towel",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_I01_BeveledFloorTile",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_I01_BeveledFloorTile.BP_Dorm_I01_BeveledFloorTile",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_I02_MosaicWallPanel",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_I02_MosaicWallPanel.BP_Dorm_I02_MosaicWallPanel",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_I03_BathroomMirror",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_I03_BathroomMirror.BP_Dorm_I03_BathroomMirror",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_I04_OpenCabinetBody",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_I04_OpenCabinetBody.BP_Dorm_I04_OpenCabinetBody",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_I05_CabinetDoor",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_I05_CabinetDoor.BP_Dorm_I05_CabinetDoor",
+      "parts": 2
+    },
+    {
+      "asset": "SM_Dorm_I06_SpareToiletRoll",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_I06_SpareToiletRoll.BP_Dorm_I06_SpareToiletRoll",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_G01_WallPanel_1m",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_G01_WallPanel_1m.BP_Dorm_G01_WallPanel_1m",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_G02_BalconySideWall",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_G02_BalconySideWall.BP_Dorm_G02_BalconySideWall",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_G03_BalconyPartitionWall",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_G03_BalconyPartitionWall.BP_Dorm_G03_BalconyPartitionWall",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Sage",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D01_WaterBottle_Sage.BP_Dorm_D01_WaterBottle_Sage",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Rose",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D01_WaterBottle_Rose.BP_Dorm_D01_WaterBottle_Rose",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D01_WaterBottle_Amber",
+      "path": "/Game/Dorm/05_Food_Drink/Blueprints/BP_Dorm_D01_WaterBottle_Amber.BP_Dorm_D01_WaterBottle_Amber",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Slate",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_B03_Textbook_Slate.BP_Dorm_B03_Textbook_Slate",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Brick",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_B03_Textbook_Brick.BP_Dorm_B03_Textbook_Brick",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_B03_Textbook_Ochre",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_B03_Textbook_Ochre.BP_Dorm_B03_Textbook_Ochre",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Slate",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_D05_Notebook_Slate.BP_Dorm_D05_Notebook_Slate",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Sage",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_D05_Notebook_Sage.BP_Dorm_D05_Notebook_Sage",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Rose",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_D05_Notebook_Rose.BP_Dorm_D05_Notebook_Rose",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_D05_Notebook_Ochre",
+      "path": "/Game/Dorm/04_Study/Blueprints/BP_Dorm_D05_Notebook_Ochre.BP_Dorm_D05_Notebook_Ochre",
+      "parts": 1
+    },
+    {
+      "asset": "AS_Dorm_E03_BalconyDoor",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_E03_BalconyDoor.BP_Dorm_E03_BalconyDoor",
+      "parts": 5
+    },
+    {
+      "asset": "AS_Dorm_I07_StockedCabinet",
+      "path": "/Game/Dorm/08_Bathroom/Blueprints/BP_Dorm_I07_StockedCabinet.BP_Dorm_I07_StockedCabinet",
+      "parts": 24
+    },
+    {
+      "asset": "SM_Dorm_J01_WindowOuterFrame",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_J01_WindowOuterFrame.BP_Dorm_J01_WindowOuterFrame",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_J02_FixedTransom",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_J02_FixedTransom.BP_Dorm_J02_FixedTransom",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_J03_SlidingSash",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_J03_SlidingSash.BP_Dorm_J03_SlidingSash",
+      "parts": 1
+    },
+    {
+      "asset": "SM_Dorm_J04_WindowGlass",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_J04_WindowGlass.BP_Dorm_J04_WindowGlass",
+      "parts": 1
+    },
+    {
+      "asset": "AS_Dorm_J05_SlidingWindow",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_J05_SlidingWindow.BP_Dorm_J05_SlidingWindow",
+      "parts": 8
+    },
+    {
+      "asset": "SM_Dorm_K01_InteriorDoor",
+      "path": "/Game/Dorm/01_Architecture/Blueprints/BP_Dorm_K01_InteriorDoor.BP_Dorm_K01_InteriorDoor",
+      "parts": 3
+    }
+  ],
+  "maps": [
+    {
+      "path": "/Game/Dorm/Maps/Lvl_Dorm",
+      "mesh_actors": 637,
+      "group_actors": 46
+    },
+    {
+      "path": "/Game/Dorm/Maps/Lvl_Dorm_Overview",
+      "mesh_actors": 637,
+      "group_actors": 46
+    }
+  ],
+  "success": true,
+  "counts": {
+    "meshes": 146,
+    "materials": 105,
+    "textures": 288,
+    "blueprints": 77,
+    "scene_mesh_actors": 637
+  }
+}
