@@ -1,4 +1,4 @@
-Copyright (c) 2026 Wake_Time. All rights reserved.
+Copyright (c) 2026 流形社. All rights reserved.
 
 本软件及其相关文档为机密且专有信息。
 
