@@ -3,6 +3,7 @@
 Developed with Unreal Engine 5
 
 ## 规范
+
 能够跨多个关卡复用的资产，放在Content/assets下，每一类单独一个文件夹
 不能跨关卡复用的资产，放在关卡所在文件夹中。参考Variant_Combat
 尽量减少移动或重命名已在场景中存在的任何引用资产。
@@ -21,4 +22,3 @@ Open `/Game/Dorm/Maps/Lvl_Dorm` for the complete room or
 See [the dorm asset guide](Docs/Dorm/README.md) for reusable Blueprints,
 PBR conventions, validation and reimport instructions. Run `git lfs pull`
 after cloning to retrieve the binary assets and source art.
-asdfasdf
